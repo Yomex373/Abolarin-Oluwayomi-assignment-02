@@ -1,4 +1,4 @@
-## AltSchool Assignment
+
 
 Complete any two out of the three challenges. See below for details of each challenge.
 
